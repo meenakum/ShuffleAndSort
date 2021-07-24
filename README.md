@@ -19,7 +19,7 @@ Javascript file is containing two function to shuffle and sort respectively
 2. Open the folder click on index.html
 
 # UI Screenshots
-![image](https://user-images.githubusercontent.com/33367123/126861121-11b8de98-c509-4dda-ba70-c9004805a639.png)
+![image](https://user-images.githubusercontent.com/33367123/126862006-f4dbc5b4-5595-42b5-bf92-956b5e15ffe9.png)
+![image](https://user-images.githubusercontent.com/33367123/126862028-0953fd9b-e20e-4dca-9fe2-a150893ff672.png)
 
-![image](https://user-images.githubusercontent.com/33367123/126828904-d048a547-4380-4c8d-86c0-7b5dd9537554.png)
 
