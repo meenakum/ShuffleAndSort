@@ -1,6 +1,7 @@
 /**Function to sort values on Sort button click */
 function sortNode() {
-  var list, i, changing, items, shouldChange;
+  let list;
+  let i, changing, items, shouldChange;
   list = document.getElementById("shuffleAndSort");
   changing = true;
   while (changing) {
